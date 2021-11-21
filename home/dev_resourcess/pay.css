@@ -1,0 +1,66 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing:border-box;
+}
+body{
+width:100%;
+}
+header{
+height: 45vh;
+width:100%;
+background-image:url("lo.jpg");
+display: flex;
+flex-direction:column;
+justify-content:center;
+align-items: center;
+background-position:center;
+background-repeat:no-repeat;
+background-size:covr;
+}
+header h3{
+color:white;
+text-shadow:0px 0px 4px aqua;
+}
+header a{
+color:grey; 
+text-decoration: none;
+background: aqua;
+width:12rem;
+text-align:center;
+border-radius: 56px;
+font-size: 19px;
+margin: 19px 0px;
+min-height: 1rem;
+padding:auto;
+}
+section {
+width: 100%;
+display:flex;
+flex-wrap: wrap;
+align-items: cener;
+justify-content: space-evenly;
+padding: 1rem 0px;
+border: 0px red solid;
+height: 100%;
+}
+section div{
+min-width: 130px;
+border: 0px red solid;
+display:flex;
+align-items:center;
+justify-content:center;
+flex-direction: column;
+margin: 1rem 0px;
+padding: 9px;
+box-shadow:0px 0px 12px grey;
+border-radius: 6px;
+}
+section div img{
+width: 120px;
+border-radius: 6px;
+margin-bottom: 1rem;
+}
+section div p{
+font-size: 10px;
+}

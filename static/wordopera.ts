@@ -7,7 +7,7 @@ const config = function (object){
 		metaTags: object.metaTags,
 		theme: object.theme,
 		description: object.description,
-		plugins; object.plugins,
+		plugins: object.plugins,
 		auth: object.auth,
 		wordoperaObject: object.wordoperaObject,
 	}

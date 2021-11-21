@@ -1,0 +1,20 @@
+{
+  "name": "wordopera",
+  "version": "1.0.0",
+  "description": "![Word Opera](https://blogger.googleusercontent.com/img/a/AVvXsEh6wuvmMyMZYC7kwZ3tGMwjHfJFM9NWzbNGkR_MMqb0SNKnByrzESfdjeXc719frz7TZyErD0JqcqL-joDXuAVNYvjDdgrA9l1ClWRUL9PzYdesm9ijbLXcqeYNLmor3ZNCvqhpvC_cVVg-bVr-blZAgwh6dIoSefWghchGVoz1sVYF5pLKKOHOGqVu=w320-h182?raw=true \"Word Opera\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FridayCandour/wordopera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FridayCandour/wordopera/issues"
+  },
+  "homepage": "https://github.com/FridayCandour/wordopera#readme"
+}
