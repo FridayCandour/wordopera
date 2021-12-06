@@ -389,5 +389,22 @@
 				</footer>
 		</div>
 <script src="paypal.js"></script>
+<script type="text/javascript">
+	
+	let tabs = document.querySelectorAll(".tab")
+let iterator = 0
+function tabsAnime() {
+    if(iterator < (tabs.length -1)){     
+        iterator++
+        tabs[iterator].classList.toggle('tabsAnime')
+    }
+}
+document.querySelector("#key").addEventListener('click',()=>{
+        setInterval(tabsAnime, 100);
+        iterator = 0
+    })
+
+
+</script>
 </body>
 </html>

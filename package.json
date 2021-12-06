@@ -1,0 +1,30 @@
+{
+  "name": "wordopera",
+  "version": "1.0.0",
+  "description": "your clean blog template, no need to build from scratch",
+  "main": "uiedbook.js",
+  "type": "module",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FridayCandour/wordopera.git"
+  },
+  "keywords": [
+    "blog",
+    "code",
+    "git",
+    "fridaycandour",
+    "template",
+    "web",
+    "content"
+  ],
+  "author": "friday candour",
+  "license": "MIT",
+  "types": "./uiedbook.d.ts",
+  "bugs": {
+    "url": "https://github.com/FridayCandour/wordopera/issues"
+  },
+  "homepage": "https://github.com/FridayCandour/wordopera#readme"
+}
